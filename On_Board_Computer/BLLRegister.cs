@@ -75,6 +75,6 @@ namespace BLL
     }
     internal class Service
     {
-        
+        private int id;
     }
 }
