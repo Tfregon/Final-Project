@@ -75,6 +75,7 @@ namespace BLL
     }
     internal class Service
     {
+        //Thomas teste
         private int id;
     }
 }
